@@ -24,7 +24,7 @@
     
     [_calBtn setFrame:CGRectMake(50, 50, 150, 80)];
     
-    [_calBtn setTitle:@"计算" forState:UIControlStateNormal];
+    [_calBtn setTitle:@"Calculate" forState:UIControlStateNormal];
     
     [_calBtn setTitleColor:[UIColor blackColor] forState:UIControlStateNormal];
     
